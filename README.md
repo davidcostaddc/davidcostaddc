@@ -52,6 +52,10 @@
   <img src="https://skillicons.dev/icons?i=github" height="29" alt="github logo"  />
 </div>
 
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6de2c0f8-6bc8-4ad3-9ae2-f2036f577923" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ###
 
 <div align="center">
