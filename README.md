@@ -37,6 +37,14 @@
     <img src="https://i.postimg.cc/xCMzXFbc/image.png" alt="Credly Badge" height="120">
   </a>
 </div>
+<div align="left">
+  <h3>Certificações:</h3>
+  <a href="https://www.credly.com/badges/6de2c0f8-6bc8-4ad3-9ae2-f2036f577923" target="_blank">
+    <img src="https://i.postimg.cc/xCMzXFbc/image.png" alt="Credly Badge" height="120">
+  </a>
+</div>
+
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=davidda418.davidda418&left_color=gray"  />
