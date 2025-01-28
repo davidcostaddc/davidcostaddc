@@ -54,7 +54,9 @@
 
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6de2c0f8-6bc8-4ad3-9ae2-f2036f577923" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/6de2c0f8-6bc8-4ad3-9ae2-f2036f577923" target="_blank">
+  <img src="https://images.credly.com/size/220x220/images/6de2c0f8-6bc8-4ad3-9ae2-f2036f577923.png" alt="Credly Badge" height="120">
+</a>
 
 ###
 
