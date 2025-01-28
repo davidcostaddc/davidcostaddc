@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="29" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="29" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=c" height="29" alt="c logo"  />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="29" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="29" alt="github logo"  />
+  
+ 
 </div>
 
 <div align="center">
