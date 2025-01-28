@@ -11,6 +11,11 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
 </div>
+###
+
+<h2 align="left"></h2>
+
+###
 
 <p align="left">Olá! Sou o David 👋<br>💻 Estudante de Sistemas da Informação na UFRPE.<br>🔐 Apaixonado por Cibersegurança e Tecnologia da Informação.<br>🌐 Experiência em Suporte Técnico, resolução de problemas e manutenção de sistemas.<br>🎮Desenvolvedor de projetos educacionais inclusivos.<br>✨ Amante da filosofia humana e das trocas de conhecimento que expandem nossos horizontes.<br><br>Hi! I'm David 👋<br>💻 Information Systems student at UFRPE.<br>🔐 Passionate about Cybersecurity and Information Technology.<br>🌐 Experienced in Technical Support, troubleshooting, and system maintenance.<br>🎮 Developer of inclusive educational projects.<br>✨ Enthusiast of human philosophy and the exchange of knowledge that broadens our horizons.</p>
 
