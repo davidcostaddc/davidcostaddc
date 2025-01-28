@@ -35,7 +35,7 @@
 <h3>Certificações:</h3>
 <div align="center">
   <a href="https://www.credly.com/badges/6de2c0f8-6bc8-4ad3-9ae2-f2036f577923" target="_blank">
-    <img src="https://i.postimg.cc/xCMzXFbc/image.png" alt="Credly Badge 1" height="120">
+    <img src="https://images.credly.com/size/340x340/images/0ab768d9-dda0-439e-aeef-edfa6e0f3579/image.png" alt="Credly Badge 1" height="120">
   </a>
   <a href="https://www.credly.com/badges/0d6f9418-ecfc-4515-82fa-3241f12ad298/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Credly Badge 2" height="120">
