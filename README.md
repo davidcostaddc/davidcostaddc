@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="29" alt="github logo"  />
 </div>
 
-<div align="left">
+<div align="center">
 <h3>Certificações:</h3>
 <div align="center">
   <a href="https://www.credly.com/badges/6de2c0f8-6bc8-4ad3-9ae2-f2036f577923" target="_blank">
