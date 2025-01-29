@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/davidantoniodacosta/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
+ <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=128a7d&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linktree logo"  />
 </div>
 
 
