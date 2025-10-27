@@ -1,6 +1,7 @@
 <h1 align="left">🎩  Bem-vindo ao meu GitHub! <br>👋🏼 | WELCOME to my GitHub!</h1>
 
-<h2 align="left">Você pode me encontrar aqui:</h2>
+<h2 align="left">📬 Conecte-se comigo
+:</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/idavid_dacosta/" target="_blank">
@@ -46,10 +47,6 @@ Sou motivado por tecnologia com propósito — especialmente projetos que envolv
 *(Em breve adicionarei mais certificações com acesso direto)*
 
 ---
-
-## 📬 Conecte-se comigo
-
-<a href="https://www.linkedin.com/in/davidantoniodacosta/">🔗 LinkedIn</a> • <a href="https://linktr.ee/daviddacosta">🌐 Linktree</a> • <a href="https://www.instagram.com/idavid_dacosta/">📸 Instagram</a>
 
 ---
 
