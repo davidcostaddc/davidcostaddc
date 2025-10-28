@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">✨ Junte-se à minha rede</h2>
+<h2 align="center">🔗Conecte-se: Meus perfis</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/idavid_dacosta/" target="_blank">
