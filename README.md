@@ -1,4 +1,7 @@
-<h1 align="center">🎩 Bem-vindo ao meu GitHub! <br>👋🏼 Welcome to my GitHub!</h1>
+<p align="center">
+  <img src="https://i.imgur.com/RkZMqzd.jpeg" alt="Banner" width="100%">
+</p>
+
 
 <p align="center">
 💻 Desenvolvedor | 🧠 Estudante de Sistemas de Informação (UFRPE) | 🛡️ Entusiasta em Cibersegurança  
@@ -6,7 +9,7 @@
 
 ---
 
-<h2 align="center">📬 Conecte-se comigo</h2>
+<h2 align="center">✨ Junte-se à minha rede</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/idavid_dacosta/" target="_blank">
@@ -23,14 +26,8 @@
 ---
 
 ## 🚀 Sobre mim
-
-Sou **David da Costa**, estudante de **Sistemas de Informação (UFRPE)**, apaixonado por **Cibersegurança**, **Programação** e **Desenvolvimento Fullstack**.  
-Tenho experiência prática em **Suporte Técnico** e **Infraestrutura de TI**, com foco em **resolução de problemas**, **otimização de sistemas** e **inovação tecnológica**.
-
-Acredito na tecnologia como ferramenta de **transformação social**, especialmente em projetos voltados à **educação, inclusão digital e segurança da informação**.
-
-> 💡 *Curioso, analítico e determinado a transformar ideias em soluções reais.*
-
+Estudante de Sistemas de Informação (UFRPE) com experiência em Suporte Técnico e interesse em Cibersegurança e Desenvolvimento Fullstack.
+Gosto de entender como cada parte da tecnologia se conecta — do hardware ao código.
 ---
 
 ## 🛡️ Áreas de foco
@@ -50,21 +47,18 @@ Acredito na tecnologia como ferramenta de **transformação social**, especialme
 
 ---
 
-## 📜 Certificações em Destaque
+## 🧩 Projetos em Destaque
 
-| Certificação | Plataforma | Visual |
-| :------------ | :---------- | :------ |
-| 🧠 **Google AI Essentials** | Coursera | ![Certificado AI](https://i.imgur.com/4WoklE4.jpeg) |
-| 🛠️ **Suporte em TI do Google** | Coursera | ![Certificado TI](https://i.imgur.com/7BNpYny.jpeg) |
-
-> *(Mais certificações em breve — com links de verificação direto!)*
+- 🔐 **Ferramenta de Segurança em Python** — automação de verificação de vulnerabilidades *(em desenvolvimento)*  
+- 🌐 **Portfolio Web Responsivo** — design limpo e moderno com HTML, CSS e JavaScript  
+- ⚙️ **Sistema de Login com Flask** — autenticação segura com criptografia  
 
 ---
 
 ## 🤝 Aberto a oportunidades
 
-Atualmente aberto a **colaborações, projetos e oportunidades profissionais** nas áreas de:  
-**Cibersegurança**, **Desenvolvimento Fullstack** e **Suporte Técnico**.
+Aberto a **colaborações, projetos e oportunidades profissionais** nas áreas de:  
+**Cibersegurança**, **Desenvolvimento Fullstack** e **Suporte Técnico**.  
 
 ✨ *Let's build something great together!*
 
@@ -73,4 +67,8 @@ Atualmente aberto a **colaborações, projetos e oportunidades profissionais** n
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidacosta&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidacosta&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davidacosta&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
