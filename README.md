@@ -1,98 +1,165 @@
-# Olá, eu sou David Antônio! 👋
 
+<!-- ===================================================== -->
+<!-- DAVID ANTÔNIO DA COSTA | GITHUB PROFILE README         -->
+<!-- ===================================================== -->
+
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/RkZMqzd.jpeg" alt="David Antônio Da Costa — GitHub Banner" width="100%">
+  <img
+    src="https://i.imgur.com/RkZMqzd.jpeg"
+    alt="David Antonio Da Costa - GitHub Banner"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <strong>Estudante de Sistemas de Informação | Cibersegurança | Infraestrutura de TI</strong>
-</p>
+<!-- INTRODUCTION -->
+<h1 align="center">Hi, I'm David Antônio! 👋</h1>
+
+<h3 align="center">
+  Information Systems Student | Cybersecurity | IT Infrastructure
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davidantoniodacosta/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/idavid_dacosta/">
-    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linktr.ee/daviddacosta">
-    <img src="https://img.shields.io/badge/Linktree-Contato-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree">
+    <img src="https://img.shields.io/badge/Linktree-Connect-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de **Bacharelado em Sistemas de Informação pela Universidade Federal Rural de Pernambuco (UFRPE)**, interessado em compreender, desenvolver e proteger sistemas e infraestruturas tecnológicas.
+I'm an undergraduate student pursuing a **Bachelor's Degree in Information Systems at the Federal Rural University of Pernambuco (UFRPE), Brazil**.
 
-Tenho experiência prática em suporte técnico, manutenção de computadores, configuração de redes e administração de ambientes computacionais.
+I have practical experience in IT support, computer maintenance, network configuration, troubleshooting, and system administration.
 
-Atualmente, direciono meus estudos para Cibersegurança, especialmente Blue Team, monitoramento, análise de eventos e defesa de sistemas.
+My current learning journey focuses on **Cybersecurity, particularly Blue Team operations**, alongside Linux administration, network infrastructure, and software development.
 
-Acredito que a tecnologia vai além do código: envolve infraestrutura, segurança, pessoas e resolução de problemas.
+I enjoy understanding how technology works as a whole — from hardware and networks to operating systems, applications, and cybersecurity.
 
----
-
-## 🛡️ Áreas de interesse
-
-- 🔐 **Cibersegurança:** defesa digital, análise de vulnerabilidades e monitoramento.
-- 🖥️ **Blue Team:** logs, detecção de ameaças e resposta a incidentes.
-- 🌐 **Infraestrutura de TI:** redes, Linux, servidores e administração de sistemas.
-- 💻 **Desenvolvimento:** programação, aplicações web e automação.
+I'm constantly learning, building practical projects, and documenting my technical journey.
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+## 🛡️ Areas of Interest
 
-**Linguagens e desenvolvimento**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Sistemas, redes e ferramentas**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+- 🔐 **Cybersecurity:** Security fundamentals, vulnerability analysis, and digital defense.
+- 🛡️ **Blue Team:** Security monitoring, log analysis, threat detection, and incident response.
+- 🖥️ **Linux Administration:** System administration, security hardening, and troubleshooting.
+- 🌐 **Network Infrastructure:** Networking, VLANs, servers, and network security.
+- 💻 **Software Development:** Python automation, web development, and application security.
 
 ---
 
-## 🚀 Projetos e laboratórios
+## ⚙️ Technical Skills
 
-Utilizo este espaço para documentar meus estudos, experimentos e projetos práticos.
+### Programming Languages
 
-Alguns temas que fazem parte do meu desenvolvimento:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Programming Languages"/>
+</p>
 
-- 🔍 Monitoramento de segurança e análise de eventos em ambientes Linux.
-- 🛡️ Laboratórios de cibersegurança e defesa de sistemas.
-- 🌐 Configuração de redes, VLANs e infraestrutura.
-- 🐍 Automação de tarefas e ferramentas desenvolvidas em Python.
-- 💻 Desenvolvimento de aplicações e projetos web.
+### Web Development & Databases
 
-*Consulte meus repositórios para acompanhar os projetos, suas implementações e documentações.*
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" alt="Web Development and Databases"/>
+</p>
+
+### Operating Systems & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,github,vscode" alt="Operating Systems and Tools"/>
+</p>
+
+### Cybersecurity & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="Graylog"/>
+  <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Virtualization-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="Virtualization"/>
+</p>
 
 ---
 
-## 📚 Formação e aprendizado
+## 🚀 Hands-on Projects & Labs
 
-- Bacharelado em Sistemas de Informação — UFRPE.
-- Google IT Support Professional Certificate.
-- Google AI Essentials.
-- Programa Hacker do Bem.
-- JA Brasil — Suporte em TI (Tech.Já).
+I use this GitHub profile to document practical projects, technical experiments, and continuous learning.
+
+Some of the areas I explore include:
+
+| Project / Lab | Description | Technologies |
+|---|---|---|
+| Security Monitoring Lab | Log collection, monitoring, and security event analysis. | Graylog, Linux |
+| Network Infrastructure Lab | Network segmentation, VLANs, and server configuration. | Cisco Packet Tracer |
+| Linux Security | Authentication monitoring, firewall configuration, and system security. | Fedora, Linux, Bash |
+| Python Security Tools | Automation scripts and security-related utilities. | Python |
+| Web Development | Responsive websites and web application development. | HTML, CSS, JavaScript |
+
+*Visit my repositories to explore implementations, technical documentation, and practical experiments.*
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🎓 Education & Training
 
-Estou aberto a oportunidades de estágio, colaboração em projetos e aprendizado nas áreas de Cibersegurança, Infraestrutura de TI e Desenvolvimento.
+- 🎓 **Bachelor's Degree in Information Systems** — Federal Rural University of Pernambuco (UFRPE).
+- 📜 **Google IT Support Professional Certificate** — Google.
+- 🤖 **Google AI Essentials** — Google.
+- 🛡️ **Hacker do Bem** — Cybersecurity Training Program.
+- 💻 **Tech.Já — IT Support Program** — JA Brasil.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <strong>Conhecimento se constrói na prática. Segurança começa com aprendizado contínuo.</strong>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=davidcostaddc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="David's GitHub Statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcostaddc&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=davidcostaddc&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 🌎 Languages
+
+- 🇧🇷 Portuguese — Native.
+- 🇪🇸 Spanish — Intermediate.
+- 🇺🇸 English — Learning.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm open to internship opportunities, collaborative projects, and professional growth in:
+
+- Cybersecurity
+- Blue Team & Security Operations
+- IT Infrastructure & Technical Support
+- Software Development
+
+<p align="center">
+  <strong>Always learning. Always building. Always improving.</strong>
+</p>
+
+<p align="center">
+  <i>"The best way to learn technology is to build, experiment, and understand."</i>
 </p>
