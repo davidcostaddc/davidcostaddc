@@ -115,29 +115,17 @@ Some of the areas I explore include:
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=davidcostaddc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="David's GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcostaddc&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <a href="https://github.com/davidcostaddc">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=davidcostaddc&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <i>Exploring technology through practical projects, technical experiments, and continuous learning.</i>
 </p>
-
----
 
 ## 🌎 Languages
 
