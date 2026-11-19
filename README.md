@@ -1,6 +1,3 @@
-cd ~/Documentos/github/davidcostaddc
-cat > README.en.md <<'EOF'
-
 <p align="center">
   <img src="https://i.imgur.com/RkZMqzd.jpeg" width="100%" alt="David Antônio - GitHub Banner">
 </p>
@@ -9,12 +6,6 @@ cat > README.en.md <<'EOF'
 
 <p align="center">
   <strong>Information Systems Student | IT Support | Blue Team</strong>
-</p>
-
-<p align="center">
-  <a href="README.md">🇧🇷 Português</a> |
-  <a href="README.en.md">🇺🇸 English</a> |
-  <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
 <p align="center">
