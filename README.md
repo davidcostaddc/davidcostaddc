@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/RkZMqzd.jpeg" alt="David Antônio da Costa - GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm David Antônio! 👋</h1>
+<h1 align="center">Hi, I'm David 👋</h1>
 
 <h3 align="center">
   Information Systems Student | Cybersecurity | IT Infrastructure
