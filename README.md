@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/RkZMqzd.jpeg" width="100%" alt="David Antônio - GitHub Banner">
-</p>
-
-<h1 align="center">Hi, I'm David Antônio! 👋</h1>
-
-<p align="center">
-  <strong>Information Systems Student | IT Support | Blue Team</strong>
-</p>
-
-<p align="center">
-  <a href="https://david-da-costa.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/davidantoniodacosta/">LinkedIn</a> •
-  <a href="https://linktr.ee/daviddacosta">Linktree</a>
-</p>
-
 cat > README.en.md <<'EOF'
 <p align="center">
   <img src="https://i.imgur.com/RkZMqzd.jpeg" alt="David Antônio da Costa - GitHub Banner" width="100%">
