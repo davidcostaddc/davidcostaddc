@@ -1,142 +1,144 @@
-
+cat > README.md <<'EOF'
 <!-- ===================================================== -->
-<!-- DAVID ANTÔNIO DA COSTA | GITHUB PROFILE README         -->
+<!-- DAVID ANTÔNIO DA COSTA | PERFIL GITHUB                -->
 <!-- ===================================================== -->
 
-<!-- HEADER BANNER -->
 <p align="center">
-  <img
-    src="https://i.imgur.com/RkZMqzd.jpeg"
-    alt="David Antonio Da Costa - GitHub Banner"
-    width="100%"
-  />
+  <img src="https://i.imgur.com/RkZMqzd.jpeg" alt="Banner de David Antônio da Costa" width="100%">
 </p>
 
-<!-- INTRODUCTION -->
-<h1 align="center">Hi, I'm David Antônio! 👋</h1>
+<h1 align="center">Olá, eu sou David Antônio! 👋</h1>
 
 <h3 align="center">
-  Information Systems Student | Cybersecurity | IT Infrastructure
+  Estudante de Sistemas de Informação | Cibersegurança | Infraestrutura de TI
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davidantoniodacosta/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/idavid_dacosta/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://linktr.ee/daviddacosta">
-    <img src="https://img.shields.io/badge/Linktree-Connect-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/Linktree-Acessar-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://david-da-costa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-Acessar-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm an undergraduate student pursuing a **Bachelor's Degree in Information Systems at the Federal Rural University of Pernambuco (UFRPE), Brazil**.
-
-I have practical experience in IT support, computer maintenance, network configuration, troubleshooting, and system administration.
-
-My current learning journey focuses on **Cybersecurity, particularly Blue Team operations**, alongside Linux administration, network infrastructure, and software development.
-
-I enjoy understanding how technology works as a whole — from hardware and networks to operating systems, applications, and cybersecurity.
-
-I'm constantly learning, building practical projects, and documenting my technical journey.
-
----
-
-## 🛡️ Areas of Interest
-
-- 🔐 **Cybersecurity:** Security fundamentals, vulnerability analysis, and digital defense.
-- 🛡️ **Blue Team:** Security monitoring, log analysis, threat detection, and incident response.
-- 🖥️ **Linux Administration:** System administration, security hardening, and troubleshooting.
-- 🌐 **Network Infrastructure:** Networking, VLANs, servers, and network security.
-- 💻 **Software Development:** Python automation, web development, and application security.
-
----
-
-## ⚙️ Technical Skills
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Programming Languages"/>
-</p>
-
-### Web Development & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" alt="Web Development and Databases"/>
-</p>
-
-### Operating Systems & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,github,vscode" alt="Operating Systems and Tools"/>
-</p>
-
-### Cybersecurity & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="Graylog"/>
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Networking"/>
-  <img src="https://img.shields.io/badge/Virtualization-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="Virtualization"/>
+<p align="center">
+  <a href="README.md">🇧🇷 Português</a> •
+  <a href="README.en.md">🇺🇸 English</a> •
+  <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
 ---
 
-## 🚀 Hands-on Projects & Labs
+## 👨‍💻 Sobre mim
 
-I use this GitHub profile to document practical projects, technical experiments, and continuous learning.
+Sou estudante de **Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE)**, no Brasil.
 
-Some of the areas I explore include:
+Tenho experiência prática em suporte de TI, manutenção de computadores, configuração de redes, resolução de problemas técnicos e administração de sistemas.
 
-| Project / Lab | Description | Technologies |
+Atualmente, direciono meus estudos para **Cibersegurança, especialmente Blue Team**, além de administração Linux, infraestrutura de redes e desenvolvimento de software.
+
+Gosto de compreender a tecnologia de forma abrangente, desde o hardware e as redes até os sistemas operacionais, aplicações e mecanismos de segurança.
+
+Estou sempre aprendendo, desenvolvendo projetos práticos e documentando minha evolução profissional.
+
+---
+
+## 🛡️ Áreas de interesse
+
+- 🔐 **Cibersegurança:** fundamentos de segurança, análise de vulnerabilidades e defesa digital.
+- 🛡️ **Blue Team:** monitoramento de segurança, análise de logs, detecção de ameaças e resposta a incidentes.
+- 🖥️ **Administração Linux:** gerenciamento de sistemas, fortalecimento da segurança e resolução de problemas.
+- 🌐 **Infraestrutura de redes:** redes de computadores, VLANs, servidores e segurança de redes.
+- 💻 **Desenvolvimento de software:** automação com Python, desenvolvimento web e segurança de aplicações.
+
+---
+
+## ⚙️ Conhecimentos técnicos
+
+### Linguagens de programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Linguagens de programação">
+</p>
+
+### Desenvolvimento web e bancos de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" alt="Desenvolvimento web e bancos de dados">
+</p>
+
+### Sistemas operacionais e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,github,vscode" alt="Sistemas e ferramentas">
+</p>
+
+### Cibersegurança e infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="Graylog">
+  <img src="https://img.shields.io/badge/Redes-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Redes">
+  <img src="https://img.shields.io/badge/Virtualização-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="Virtualização">
+</p>
+
+---
+
+## 🚀 Projetos e laboratórios práticos
+
+Utilizo este GitHub para documentar projetos, experimentos técnicos e meu aprendizado contínuo.
+
+| Projeto / Laboratório | Descrição | Tecnologias |
 |---|---|---|
-| Security Monitoring Lab | Log collection, monitoring, and security event analysis. | Graylog, Linux |
-| Network Infrastructure Lab | Network segmentation, VLANs, and server configuration. | Cisco Packet Tracer |
-| Linux Security | Authentication monitoring, firewall configuration, and system security. | Fedora, Linux, Bash |
-| Python Security Tools | Automation scripts and security-related utilities. | Python |
-| Web Development | Responsive websites and web application development. | HTML, CSS, JavaScript |
+| **Sentinela** | Análise heurística de URLs, e-mails e mensagens suspeitas. | Python, FastAPI, HTML, CSS, JavaScript |
+| Monitoramento de segurança | Coleta de logs, monitoramento e análise de eventos. | Graylog, Linux |
+| Infraestrutura de redes | Segmentação de redes, VLANs e configuração de servidores. | Cisco Packet Tracer |
+| Segurança Linux | Monitoramento de autenticação e administração de sistemas. | Fedora, Linux, Bash |
+| Ferramentas de segurança | Scripts de automação e utilitários desenvolvidos em Python. | Python |
+| Desenvolvimento web | Criação de sites e aplicações web. | HTML, CSS, JavaScript |
 
-*Visit my repositories to explore implementations, technical documentation, and practical experiments.*
+*Explore meus repositórios para conhecer as implementações, documentações e experimentos.*
 
 ---
 
-## 🎓 Education & Training
+## 🎓 Formação e capacitações
 
-- 🎓 **Bachelor's Degree in Information Systems** — Federal Rural University of Pernambuco (UFRPE).
+- 🎓 **Bacharelado em Sistemas de Informação** — Universidade Federal Rural de Pernambuco (UFRPE).
 - 📜 **Google IT Support Professional Certificate** — Google.
 - 🤖 **Google AI Essentials** — Google.
-- 🛡️ **Hacker do Bem** — Cybersecurity Training Program.
-- 💻 **Tech.Já — IT Support Program** — JA Brasil.
+- 🛡️ **Hacker do Bem** — Programa de capacitação em cibersegurança.
+- 💻 **Tech.Já — Programa de Suporte em TI** — JA Brasil.
 
 ---
 
+## 🌎 Idiomas
 
-## 🌎 Languages
-
-- 🇧🇷 Portuguese — Native.
-- 🇪🇸 Spanish — Intermediate.
-- 🇺🇸 English — Learning.
+- 🇧🇷 Português — Nativo.
+- 🇪🇸 Espanhol — Intermediário.
+- 🇺🇸 Inglês — Em aprendizado.
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Vamos nos conectar?
 
-I'm open to internship opportunities, collaborative projects, and professional growth in:
+Tenho interesse em oportunidades de estágio, projetos colaborativos e desenvolvimento profissional nas áreas de:
 
-- Cybersecurity
-- Blue Team & Security Operations
-- IT Infrastructure & Technical Support
-- Software Development
+- Cibersegurança.
+- Blue Team e Operações de Segurança.
+- Infraestrutura e Suporte de TI.
+- Desenvolvimento de Software.
 
 <p align="center">
-  <strong>Always learning. Always building. Always improving.</strong>
+  <strong>Sempre aprendendo. Sempre desenvolvendo. Sempre evoluindo.</strong>
 </p>
 
 <p align="center">
-  <i>"The best way to learn technology is to build, experiment, and understand."</i>
+  <i>"A melhor maneira de aprender tecnologia é construir, experimentar e compreender."</i>
 </p>
+EOF
