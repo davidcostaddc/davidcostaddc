@@ -1,4 +1,4 @@
-cat > README.en.md <<'EOF'
+
 <p align="center">
   <img src="https://i.imgur.com/RkZMqzd.jpeg" alt="David Antônio da Costa - GitHub Banner" width="100%">
 </p>
