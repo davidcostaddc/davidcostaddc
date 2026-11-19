@@ -1,144 +1,109 @@
-
-<!-- ===================================================== -->
-<!-- DAVID ANTÔNIO DA COSTA | PERFIL GITHUB                -->
-<!-- ===================================================== -->
+cd ~/Documentos/github/davidcostaddc
+cat > README.en.md <<'EOF'
 
 <p align="center">
-  <img src="https://i.imgur.com/RkZMqzd.jpeg" alt="Banner de David Antônio da Costa" width="100%">
+  <img src="https://i.imgur.com/RkZMqzd.jpeg" width="100%" alt="David Antônio - GitHub Banner">
 </p>
 
-<h1 align="center">Olá, eu sou David Antônio! 👋</h1>
-
-<h3 align="center">
-  Estudante de Sistemas de Informação | Cibersegurança | Infraestrutura de TI
-</h3>
+<h1 align="center">Hi, I'm David Antônio! 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davidantoniodacosta/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/idavid_dacosta/">
-    <img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linktr.ee/daviddacosta">
-    <img src="https://img.shields.io/badge/Linktree-Acessar-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-  </a>
-  <a href="https://david-da-costa.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-Acessar-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-  </a>
+  <strong>Information Systems Student | IT Support | Blue Team</strong>
 </p>
 
 <p align="center">
-  <a href="README.md">🇧🇷 Português</a> •
-  <a href="README.en.md">🇺🇸 English</a> •
+  <a href="README.md">🇧🇷 Português</a> |
+  <a href="README.en.md">🇺🇸 English</a> |
   <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Bacharelado em Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE)**, no Brasil.
-
-Tenho experiência prática em suporte de TI, manutenção de computadores, configuração de redes, resolução de problemas técnicos e administração de sistemas.
-
-Atualmente, direciono meus estudos para **Cibersegurança, especialmente Blue Team**, além de administração Linux, infraestrutura de redes e desenvolvimento de software.
-
-Gosto de compreender a tecnologia de forma abrangente, desde o hardware e as redes até os sistemas operacionais, aplicações e mecanismos de segurança.
-
-Estou sempre aprendendo, desenvolvendo projetos práticos e documentando minha evolução profissional.
-
----
-
-## 🛡️ Áreas de interesse
-
-- 🔐 **Cibersegurança:** fundamentos de segurança, análise de vulnerabilidades e defesa digital.
-- 🛡️ **Blue Team:** monitoramento de segurança, análise de logs, detecção de ameaças e resposta a incidentes.
-- 🖥️ **Administração Linux:** gerenciamento de sistemas, fortalecimento da segurança e resolução de problemas.
-- 🌐 **Infraestrutura de redes:** redes de computadores, VLANs, servidores e segurança de redes.
-- 💻 **Desenvolvimento de software:** automação com Python, desenvolvimento web e segurança de aplicações.
-
----
-
-## ⚙️ Conhecimentos técnicos
-
-### Linguagens de programação
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Linguagens de programação">
-</p>
-
-### Desenvolvimento web e bancos de dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" alt="Desenvolvimento web e bancos de dados">
-</p>
-
-### Sistemas operacionais e ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,github,vscode" alt="Sistemas e ferramentas">
-</p>
-
-### Cibersegurança e infraestrutura
-
-<p>
-  <img src="https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white" alt="Graylog">
-  <img src="https://img.shields.io/badge/Redes-0078D4?style=flat-square&logo=cisco&logoColor=white" alt="Redes">
-  <img src="https://img.shields.io/badge/Virtualização-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="Virtualização">
+<p align="center">
+  <a href="https://david-da-costa.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/davidantoniodacosta/">LinkedIn</a> •
+  <a href="https://linktr.ee/daviddacosta">Linktree</a>
 </p>
 
 ---
 
-## 🚀 Projetos e laboratórios práticos
+## 👨‍💻 About Me
 
-Utilizo este GitHub para documentar projetos, experimentos técnicos e meu aprendizado contínuo.
+I'm an Information Systems student at UFRPE, interested in technology, cybersecurity, infrastructure, and software development.
 
-| Projeto / Laboratório | Descrição | Tecnologias |
-|---|---|---|
-| **Sentinela** | Análise heurística de URLs, e-mails e mensagens suspeitas. | Python, FastAPI, HTML, CSS, JavaScript |
-| Monitoramento de segurança | Coleta de logs, monitoramento e análise de eventos. | Graylog, Linux |
-| Infraestrutura de redes | Segmentação de redes, VLANs e configuração de servidores. | Cisco Packet Tracer |
-| Segurança Linux | Monitoramento de autenticação e administração de sistemas. | Fedora, Linux, Bash |
-| Ferramentas de segurança | Scripts de automação e utilitários desenvolvidos em Python. | Python |
-| Desenvolvimento web | Criação de sites e aplicações web. | HTML, CSS, JavaScript |
+I enjoy learning new technologies and developing practical projects to improve my technical skills.
 
-*Explore meus repositórios para conhecer as implementações, documentações e experimentos.*
+- 🎓 Bachelor's degree in Information Systems — UFRPE (in progress)
+- 💻 IT Support and troubleshooting
+- 🛡️ Interested in Cybersecurity and Blue Team
+- 🐧 Linux and system administration
+- 🌐 Networking and infrastructure
 
----
+## 🛠️ Technical Skills
 
-## 🎓 Formação e capacitações
+**Programming languages**
 
-- 🎓 **Bacharelado em Sistemas de Informação** — Universidade Federal Rural de Pernambuco (UFRPE).
-- 📜 **Google IT Support Professional Certificate** — Google.
-- 🤖 **Google AI Essentials** — Google.
-- 🛡️ **Hacker do Bem** — Programa de capacitação em cibersegurança.
-- 💻 **Tech.Já — Programa de Suporte em TI** — JA Brasil.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+</p>
 
----
+**Web development and databases**
 
-## 🌎 Idiomas
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,flask,mysql" />
+</p>
 
-- 🇧🇷 Português — Nativo.
-- 🇪🇸 Espanhol — Intermediário.
-- 🇺🇸 Inglês — Em aprendizado.
+**Tools and systems**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,fedora,bash,git,github,vscode" />
+</p>
 
-## 🤝 Vamos nos conectar?
+**Cybersecurity and infrastructure**
 
-Tenho interesse em oportunidades de estágio, projetos colaborativos e desenvolvimento profissional nas áreas de:
+- Graylog
+- Security monitoring
+- Network fundamentals
+- VirtualBox
+- Linux administration
 
-- Cibersegurança.
-- Blue Team e Operações de Segurança.
-- Infraestrutura e Suporte de TI.
-- Desenvolvimento de Software.
+## 🚀 Projects
+
+### 🛡️ Sentinela
+A web application designed to analyze suspicious URLs, emails, and messages using heuristic analysis.
+
+**Technologies:** Python, FastAPI, HTML, CSS, JavaScript.
+
+### 🔎 Security Monitoring Lab
+A practical environment for collecting and analyzing system logs using Graylog and Linux.
+
+### 🐧 Linux and Infrastructure Labs
+Hands-on learning projects involving Linux administration, networking, and virtual machines.
+
+## 🎓 Education and Training
+
+- Information Systems — UFRPE (in progress)
+- Google IT Support Professional Certificate
+- Google AI Essentials
+- Hacker do Bem
+- Tech.Já — IT Support Program (JA Brasil)
+
+## 🌎 Languages
+
+- Portuguese — Native
+- Spanish — Intermediate
+- English — Learning
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <strong>Sempre aprendendo. Sempre desenvolvendo. Sempre evoluindo.</strong>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidcostaddc&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcostaddc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 <p align="center">
-  <i>"A melhor maneira de aprender tecnologia é construir, experimentar e compreender."</i>
+  <strong>💡 Believing in the power of information.</strong>
 </p>
-EOF
+
+
+wc -l README.en.md
